@@ -1,0 +1,21 @@
+{
+  "name": "shd1",
+  "version": "1.0.0",
+  "description": "مكتبة CSS حديثة وسريعة تعتمد على التأثيرات البصرية والظلال",
+  "main": "sd1.css",
+  "scripts": {
+    "dev": "sass sd1.scss sd1.css --watch"
+  },
+  "keywords": [
+    "css",
+    "library",
+    "sd1",
+    "framework"
+  ],
+  "author": "Ghanmidev2012",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "sass": "^1.101.0"
+  }
+}

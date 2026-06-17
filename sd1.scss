@@ -1,0 +1,12 @@
+$main-color: #ef4444;
+
+.sd1-box {
+    background-color: $main-color;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    &:hover {
+        background-color: #dc2626;
+    }
+}
